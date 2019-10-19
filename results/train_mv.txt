@@ -1,0 +1,23 @@
+The confusion matrix generated using majority voting is: 
+ [[1454 1256]
+ [1163 1555]]
+ The report for the majority voting is 
+              precision    recall  f1-score   support
+
+        neg       0.56      0.54      0.55      2710
+        pos       0.55      0.57      0.56      2718
+
+avg / total       0.55      0.55      0.55      5428
+
+ The positive recall value using majority voting is 0.572111846946284 
+ The negative recall value using majority voting is  0.5365313653136531
+ The F1 using majority voting is 0.5543478260869565
+ The accuracy using majority voting is  55.434782608695656
+ The predicted probability for x train is 
+ [[0. 1.]
+ [0. 1.]
+ [0. 1.]
+ ...
+ [1. 0.]
+ [1. 0.]
+ [1. 0.]] 

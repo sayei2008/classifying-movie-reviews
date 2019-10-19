@@ -1,0 +1,23 @@
+The confusion matrix generated for gold standard is: 
+ [[1420 1290]
+ [1225 1493]]
+ The report for the gold standard is 
+              precision    recall  f1-score   support
+
+        neg       0.54      0.52      0.53      2710
+        pos       0.54      0.55      0.54      2718
+
+avg / total       0.54      0.54      0.54      5428
+
+ The positive recall value for gold standard is 0.5493009565857248 
+ The negative recall value for gold standard is  0.5239852398523985
+ The F1 for gold standard is 0.5366617538688283
+ The accuracy for gold standard is  53.66617538688283
+ The predicted probability for x train is 
+ [[1. 0.]
+ [1. 0.]
+ [0. 1.]
+ ...
+ [0. 1.]
+ [1. 0.]
+ [0. 1.]] 

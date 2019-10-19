@@ -1,0 +1,23 @@
+The confusion matrix generated using dawid skene is: 
+ [[1526 1184]
+ [1215 1503]]
+ The report for the dawid skene is 
+              precision    recall  f1-score   support
+
+        neg       0.56      0.56      0.56      2710
+        pos       0.56      0.55      0.56      2718
+
+avg / total       0.56      0.56      0.56      5428
+
+ The positive recall value using dawid skene is 0.5529801324503312 
+ The negative recall value using dawid skene is  0.56309963099631
+ The F1 using dawid skene is 0.5580324244657332
+ The accuracy using dawid skene is  55.80324244657332
+ The predicted probability for x train is 
+ [[0. 1.]
+ [0. 1.]
+ [0. 1.]
+ ...
+ [1. 0.]
+ [1. 0.]
+ [1. 0.]] 
